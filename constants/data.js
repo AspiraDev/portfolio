@@ -33,7 +33,7 @@ const userData = {
     title:
       "Sou desenvolvedor Python autodidata em busca de uma oportunidade na área.",
     description: [
-      `Tenho 22 anos e sou estudante de direito, mas apaixonado pela área de tecnologia e desenvolvimento de aplicações.`,
+      `Tenho 22 anos, sou estudante de direito e apaixonado pela área de tecnologia e desenvolvimento de aplicações.`,
       `Quando me formar, planejo trabalhar na área de Direito Digital. `,
       `Atualmente estou em busca de uma oportunidade na área de programação, em específico Python.`,
     ],

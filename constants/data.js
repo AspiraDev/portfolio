@@ -13,14 +13,20 @@ const userData = {
       imgUrl: "/tmk.jpg",
     },
     {
+      title: "Letra Spotify com Python/Flask",
+      link: "https://letra-spotify.protocoloone.repl.co",
+      imgUrl: "/spotify.png",
+    },
+    
+    {
+      title: "Letra Spotify com Python/Flask",
+      link: "https://primeiro.mochilao.repl.co",
+      imgUrl: "/mochilao.png",
+    },
+    {
       title: "Portfólio",
       link: "https://AspiraDev.github.io/portfolio/",
       imgUrl: "/portfolio.png",
-    },
-    {
-      title: "Site do meu Mochilão",
-      link: "https://primeiro.mochilao.repl.co",
-      imgUrl: "/mochilao.png",
     },
   ],
   about: {

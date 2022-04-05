@@ -35,17 +35,17 @@ export default function FavouriteProjects() {
         <div className="grid md:grid-cols-3 gap-8 lg:-mt-8 pb-40">
           {/* Single card */}
           <a
-            href="https://tailwindmasterkit.com"
+            href="https://letra-spotify.protocoloone.repl.co/"
             className="w-full block col-span-3 shadow-2xl"
           >
             <div className="relative overflow-hidden">
               <img
-                src="/tmk.jpg"
-                alt="portfolio"
+                src="/spotify.png"
+                alt="spotify"
                 className="transform hover:scale-125 transition duration-2000 ease-out"
               />
               <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
-                API LGPD
+                Letra músicas Spotify com Python/Flask
               </h1>
               <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
                 01
@@ -54,7 +54,7 @@ export default function FavouriteProjects() {
           </a>
           {/* Single card */}
           <a
-            href="https://placeholdertech.in"
+            href="https://primeiro.mochilao.repl.co/"
             className="w-full block col-span-3  sm:col-span-2 shadow-2xl"
           >
             <div className="relative overflow-hidden">
@@ -74,18 +74,18 @@ export default function FavouriteProjects() {
           </a>
           {/* Single card */}
           <a
-            href="https://manuarora.in"
+            href="https://api-lgpd.protocoloone.repl.co/"
             className="w-full block col-span-3 sm:col-span-1  object-cover"
           >
             <div className="relative overflow-hidden shadow-2xl">
               {/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div> */}
               <img
-                src="/portfolio.png"
-                alt="portfolio"
+                src="/tmk.jpg"
+                alt="api-lgpd"
                 className="transform hover:scale-125 transition duration-2000 ease-out object-cover shadow-2xl"
               />
               <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
-                Portfolio
+                API REST LGPD 
               </h1>
               <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
                 03
